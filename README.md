@@ -16,7 +16,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 
 ## `Workshop topics`
 
-### [`Part 1:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Day_1) : Machine Learning
+### [`Part 1:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1) : Machine Learning
 *   What is artificial intelligence?
 *   Introduction to machine learning
 *   Basic concepts and definitions
@@ -24,7 +24,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 *   Unsupervised learning models
 *   Evaluating classification models
 
-### [`Part 2:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Day_2) : Neural Networks
+### [`Part 2:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2) : Neural Networks
 *   Biological inspiration
 *   Gradient descent
 *   Single-layer neural networks
@@ -32,7 +32,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 *   SGD and optimizers
 *   Universal approximation theorem
 
-### [`Part 3:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Day_3) : Deep Neural Networks
+### [`Part 3:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3) : Deep Neural Networks
 *   What is deep learning?
 *   Convolutional neural networks
 *   LeNet-5 model
