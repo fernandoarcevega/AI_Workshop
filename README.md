@@ -37,19 +37,24 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 *   Single-layer neural networks
     *   [`MLP`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/02_MLP)
 *   Multi-layer perceptron
-    *   [`MLP_SGD`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/03_MLP_SGD)
+    *   [`MLP-SGD`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/03_MLP_SGD)
 *   SGD and optimizers
-    *   [`MLP complete`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/04_MLP_complete)
-    *   [`MLP autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/05_MLP_autoencoder)
+    *   [`MLP-complete`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/04_MLP_complete)
+    *   [`MLP-autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/05_MLP_autoencoder)
 *   Universal approximation theorem
 
 ### [`Part 3:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3) Deep Neural Networks
 *   What is deep learning?
 *   Convolutional neural networks
 *   LeNet-5 model
+    *   [`CNN-MNIST`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/01_CNN_MNIST)
 *   Pre-trained CNN models
+    *   [`Transfer learning`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/02_transfer_learning)
 *   Instance segmentation
+    *   [`YOLO`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/04_YOLO)
 *   GRAD-CAM methods
+    *   [`GRAD-CAM`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/03_grad_CAM)
+    *   [`CNN-autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/05_CNN_autoencoder)
 
 ## `Recommended bibliography`
 <p align="center">
