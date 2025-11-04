@@ -21,6 +21,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 *   Introduction to machine learning
 *   Basic concepts and definitions
 *   Supervised learning models
+    *   [`Linear regression`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/01_Linear_regression)
 *   Unsupervised learning models
 *   Evaluating classification models
 
