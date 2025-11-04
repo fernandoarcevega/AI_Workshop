@@ -15,6 +15,9 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 </p>
 
 ## `Workshop topics`
+### [`Part 0:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1) Introduction to Python
+*   Variables
+*   
 
 ### [`Part 1:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1) Machine Learning
 *   What is artificial intelligence?
