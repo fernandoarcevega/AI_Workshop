@@ -32,10 +32,15 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 
 ### [`Part 2:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2) Neural Networks
 *   Biological inspiration
+    *   [`Perceptron`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/01_Perceptron)
 *   Gradient descent
 *   Single-layer neural networks
+    *   [`MLP`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/02_MLP)
 *   Multi-layer perceptron
+    *   [`MLP_SGD`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/03_MLP_SGD)
 *   SGD and optimizers
+    *   [`MLP complete`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/04_MLP_complete)
+    *   [`MLP autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/05_MLP_autoencoder)
 *   Universal approximation theorem
 
 ### [`Part 3:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3) Deep Neural Networks
