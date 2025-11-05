@@ -68,3 +68,6 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
   <img src="https://github.com/fernandoarcevega/AI_Workshop/blob/main/srcs/chollet.jpg" width="200">
 </p>
 
+## `Contact information`
+*   `Dr. Wilfrido Gomez-Flores`: wgomez@cinvestav.mx
+*   `Dr. Fernando Arce-Vega`: farce@cio.mx
