@@ -58,9 +58,10 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
     *   [`Transfer learning`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/02_transfer_learning)
 *   Instance segmentation
     *   [`YOLO`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/04_YOLO)
+*   Convolutional autoencoder
+    *   [`CNN-autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/05_CNN_autoencoder)
 *   GRAD-CAM methods
     *   [`GRAD-CAM`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/03_grad_CAM)
-    *   [`CNN-autoencoder`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/05_CNN_autoencoder)
 *   Lab
     *   [`Exercise`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3/06_Lab)
 
