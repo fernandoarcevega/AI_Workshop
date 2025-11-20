@@ -77,3 +77,6 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 ## `Contact information`
 *   `Dr. Wilfrido Gomez-Flores`: wgomez@cinvestav.mx
 *   `Dr. Fernando Arce-Vega`: farce@cio.mx
+
+## `Workshop previews`
+*   `Zacatecas, November 2025`:
