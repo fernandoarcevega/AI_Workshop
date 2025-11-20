@@ -80,3 +80,6 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 
 ## `Workshop previews`
 *   `Zacatecas, November 2025`:
+<p align="center">
+  <img src="https://github.com/fernandoarcevega/AI_Workshop/blob/main/previews/2025_Zacatecas.JPG" width="600">
+</p>
