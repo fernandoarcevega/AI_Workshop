@@ -23,7 +23,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 *   [`Tensors`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Part_0/02_Tensors.ipynb)
 -->
 
-### [`Part 1:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1) Machine Learning
+### [`Part 1:`](https://drive.google.com/file/d/1d8_wN19SinZ6MFUZ_BA42m6k5vBQOM3O/view?usp=sharing) Machine Learning
 *   What is artificial intelligence?
 *   Introduction to machine learning
 *   Basic concepts and definitions
@@ -41,7 +41,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 -->
 *   Evaluating classification models
 
-### [`Part 2:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2) Neural Networks
+### [`Part 2:`]([https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2](https://drive.google.com/file/d/1KwscP6zP6LPrnm7zeTRnvFp2ZkVBSEau/view?usp=sharing)) Neural Networks
 *   Biological inspiration
     *   [`Perceptron`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/01_Perceptron)
 *   Gradient descent
@@ -58,7 +58,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 -->
 *   Universal approximation theorem
 
-### [`Part 3:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_3) Deep Neural Networks
+### [`Part 3:`](https://drive.google.com/file/d/1foUzd-iOk915qOBzSRIoXKZICASA-T5m/view?usp=sharing) Deep Neural Networks
 *   What is deep learning?
 *   Convolutional neural networks
 *   LeNet-5 model
