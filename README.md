@@ -32,9 +32,9 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
     *   [`Naive Bayes`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/02_Naive_Bayes)
     *   [`KNN`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/03_KNN)
     *   [`Logistic regression`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/04_Logistic_regression) 
--->
+
 *   Unsupervised learning models
-<!--
+
     *   [`PCA`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/05_PCA)
     *   [`K-means`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/06_K_means)
 -->
