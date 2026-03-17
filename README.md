@@ -37,9 +37,9 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 
     *   [`PCA`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/05_PCA)
     *   [`K-means`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/06_K_means)
--->
-*   Evaluating classification models
 
+*   Evaluating classification models
+-->
 ### [`Day 1:`](https://drive.google.com/file/d/1KwscP6zP6LPrnm7zeTRnvFp2ZkVBSEau/view?usp=sharing) Neural Networks
 *   Biological inspiration
     *   [`Perceptron`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/01_Perceptron)
