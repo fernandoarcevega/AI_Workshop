@@ -15,7 +15,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 </p>
 
 ## `Workshop topics`
-### [`Introduction:`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Readings/Intro.pdf) Introduction to the Workshop
+### [`Introduction:`](https://drive.google.com/file/d/1KrO228rSaNH_col4RjcLgaiJ02z4sxw9/view?usp=sharing) Introduction to the Workshop
 
 <!--
 ### [`Part 0:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_0) Introduction to the Programming Environment
