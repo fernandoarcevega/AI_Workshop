@@ -21,14 +21,13 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 ### [`Part 0:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_0) Introduction to the Programming Environment
 *   [`Google Colab`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Part_0/01_Google_Colab.ipynb)
 *   [`Tensors`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Part_0/02_Tensors.ipynb)
--->
 
 ### [`Part 1:`](https://drive.google.com/file/d/1d8_wN19SinZ6MFUZ_BA42m6k5vBQOM3O/view?usp=sharing) Machine Learning
 *   What is artificial intelligence?
 *   Introduction to machine learning
 *   Basic concepts and definitions
 *   Supervised learning models
-<!--
+
     *   [`Linear regression`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/01_Linear_regression)
     *   [`Naive Bayes`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/02_Naive_Bayes)
     *   [`KNN`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1/03_KNN)
