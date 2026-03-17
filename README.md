@@ -17,10 +17,11 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 ## `Workshop topics`
 ### [`Introduction:`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Readings/Intro.pdf) Introduction to the Workshop
 
+<!--
 ### [`Part 0:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_0) Introduction to the Programming Environment
 *   [`Google Colab`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Part_0/01_Google_Colab.ipynb)
 *   [`Tensors`](https://github.com/fernandoarcevega/AI_Workshop/blob/main/Part_0/02_Tensors.ipynb)
-
+-->
 
 ### [`Part 1:`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_1) Machine Learning
 *   What is artificial intelligence?
