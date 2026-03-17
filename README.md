@@ -41,7 +41,7 @@ Welcome to this workshop on artificial intelligence! In the following days, we w
 -->
 *   Evaluating classification models
 
-### [`Part 2:`]([https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2](https://drive.google.com/file/d/1KwscP6zP6LPrnm7zeTRnvFp2ZkVBSEau/view?usp=sharing)) Neural Networks
+### [`Part 2:`](https://drive.google.com/file/d/1KwscP6zP6LPrnm7zeTRnvFp2ZkVBSEau/view?usp=sharing) Neural Networks
 *   Biological inspiration
     *   [`Perceptron`](https://github.com/fernandoarcevega/AI_Workshop/tree/main/Part_2/01_Perceptron)
 *   Gradient descent
